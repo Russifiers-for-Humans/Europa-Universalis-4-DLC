@@ -1,0 +1,11 @@
+name = "Res Publica"
+archive = "dlc/dlc021_res_publica/dlc021.zip"
+steam_id = "279623"
+egs_id = "11f08673abf749e6b91b61c72979f1a4"
+egs_prod_id = "119a9b76ebb74bdd99a736f52cbe1bb1"
+egs_staging_id = "8f06bd520354422ab69546bdd9e28b07"
+pops_id = "eu4_dlc021_res_publica"
+affects_checksum = no
+affects_compatability = yes
+checksum = "bf34f7b9546c5a16cd1de01521c1adf1"
+category = "expansion"

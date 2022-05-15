@@ -1,0 +1,8 @@
+name = "Women in History"
+archive = "builtin_dlc/dlc038_women_in_history/dlc038.zip"
+steam_id = "354790"
+pops_id = "eu4_dlc038_women_in_history"
+affects_checksum = no
+affects_compatability = no
+checksum = "a39b02e8b81d9b71827fbb606e828b10"
+category = "content_pack"

@@ -1,0 +1,11 @@
+name = "Kairi's Soundtrack"
+archive = "dlc/dlc044_kairis_soundtrack/dlc044.zip"
+steam_id = "373400"
+egs_id = "2e3d7324df09418387e8eb649420abcc"
+egs_prod_id = "d3caec7c4e7d4256a458a4411720978b"
+egs_staging_id = "24c9d4da219144f080600db6b97934f5"
+pops_id = "eu4_dlc044_kairis_soundtrack"
+affects_checksum = no
+affects_compatability = no
+checksum = "2ac7a8070f88c4b2eac4fa1eb073d802"
+category = "music"

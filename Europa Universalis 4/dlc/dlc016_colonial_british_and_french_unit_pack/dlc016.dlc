@@ -1,0 +1,11 @@
+name = "Colonial British and French Unit Pack"
+archive = "dlc/dlc016_colonial_british_and_french_unit_pack/dlc016.zip"
+steam_id = "278711"
+egs_id = "3bee11950a8f47f489f7d0669cf65233"
+egs_prod_id = "beac449810be4c5c8d6a25435fc08d03"
+egs_staging_id = "1936f4d295f74889b2188ff85aff4616"
+pops_id = "eu4_dlc016_colonial_british_and_french_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "2ad37b6ea5aa9f78d73bc5c715873d1f"
+category = "unit_pack"

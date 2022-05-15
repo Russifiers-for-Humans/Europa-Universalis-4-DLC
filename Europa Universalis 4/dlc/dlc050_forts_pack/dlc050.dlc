@@ -1,0 +1,11 @@
+name = "Forts Pack"
+archive = "dlc/dlc050_forts_pack/dlc050.zip"
+steam_id = "373380"
+egs_id = "5e5da09db4cb4407a0bf7e1c30ff70ce"
+egs_prod_id = "f0f1492aa04b46e5ab4da14556522e75"
+egs_staging_id = "487f2306ea3f4c5f9ee02ad692ff3751"
+pops_id = "eu4_dlc050_forts_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "56f85c4eb6600c9e366fd49adb47b4c5"
+category = "content_pack"

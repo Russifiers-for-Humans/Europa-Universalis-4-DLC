@@ -1,0 +1,11 @@
+name = "Conquest of Constantinople Music Pack"
+archive = "dlc/dlc008_conquest_of_constantinople_music_pack/dlc008.zip"
+steam_id = "241367"
+egs_id = "740c78f4e4dd448eb6080e9e4f295ff4"
+egs_prod_id = "abe6015dd0e142fc801814011069db63"
+egs_staging_id = "9b2b1f3009cd4279bcab68e34f7a9119"
+pops_id = "eu4_dlc008_conquest_of_constantinople_music_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "e8c1a9870db39b0fcc29c2f8cb08bb1e"
+category = "music"

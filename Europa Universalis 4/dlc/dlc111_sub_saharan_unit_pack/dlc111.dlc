@@ -1,0 +1,11 @@
+name = "Sub-Saharan Unit Pack"
+archive = "dlc/dlc111_sub_saharan_unit_pack/dlc111.zip"
+steam_id = "1756130"
+egs_id = "caa839494aaa482e829104425fe85ed4"
+egs_prod_id = "f758ad592c7f435c91f75c00f5b153a6"
+egs_staging_id = "fed9aa62559b4ddb8e6859a76f066553"
+pops_id = "eu4_dlc111_origins_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "c248d3c89f7dea99ed6db0d24ee89d5d"
+category = "unit_pack"

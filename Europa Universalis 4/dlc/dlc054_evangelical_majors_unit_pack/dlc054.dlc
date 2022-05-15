@@ -1,0 +1,11 @@
+name = "Evangelical Majors Unit Pack"
+archive = "dlc/dlc054_evangelical_majors_unit_pack/dlc054.zip"
+steam_id = "539260"
+egs_id = "2977661d607e41ee94aca320b74ca262"
+egs_prod_id = "a807a9485e204aaba10edee9e7477373"
+egs_staging_id = "2606eec488074877a535fe75e4af2e31"
+pops_id = "eu4_dlc054_evangelical_majors_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "c1f25c304ff5d9359fa33fbcb64b140a"
+category = "unit_pack"

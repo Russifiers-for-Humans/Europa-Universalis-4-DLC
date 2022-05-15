@@ -1,0 +1,11 @@
+name = "East African Music Pack"
+archive = "dlc/dlc113_east_african_music_pack/dlc113.zip"
+steam_id = "1756130"
+egs_id = "caa839494aaa482e829104425fe85ed4"
+egs_prod_id = "f758ad592c7f435c91f75c00f5b153a6"
+egs_staging_id = "fed9aa62559b4ddb8e6859a76f066553"
+pops_id = "eu4_dlc113_east_african_music_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "0c7259c963f99481c5a5a3a741a206f3"
+category = "music"

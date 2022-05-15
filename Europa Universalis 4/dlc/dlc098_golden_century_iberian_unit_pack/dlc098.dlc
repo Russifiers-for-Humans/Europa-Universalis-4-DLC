@@ -1,0 +1,11 @@
+name = "Golden Century - Iberian Unit Pack"
+archive = "dlc/dlc098_golden_century_iberian_unit_pack/dlc098.zip"
+steam_id = "960920"
+egs_id = "2c5ce54440b64293a2b7c18c9a48a3d1"
+egs_prod_id = "1f14191188e04db883f94c1a6be84bf6"
+egs_staging_id = "b9a7ed6d1d3a4acba24e54598c9afc4c"
+pops_id = "eu4_dlc098_golden_century_iberian_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "1cba8760a1df9fba518573dcf2170fc6"

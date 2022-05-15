@@ -1,0 +1,11 @@
+name = "The North Unit Pack"
+archive = "dlc/dlc069_the_north_unit_pack/dlc069.zip"
+steam_id = "538021"
+egs_id = "a0fe3c7699bd42c584c98b708a180209"
+egs_prod_id = "92609780e3c340e5b3d2af81293a91e0"
+egs_staging_id = "a1802dad980b4ccfa0ecf4af817a5ea7"
+pops_id = "eu4_dlc069_the_north_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "a034d58445c4b21ae5a75adf20a01918"

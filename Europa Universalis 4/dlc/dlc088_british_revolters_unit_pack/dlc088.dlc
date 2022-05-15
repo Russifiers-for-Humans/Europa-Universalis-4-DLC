@@ -1,0 +1,11 @@
+name = "British Revolters Unit Pack"
+archive = "dlc/dlc088_british_revolters_unit_pack/dlc088.zip"
+steam_id = "760070"
+egs_id = "157cd6f3ef9f48f88b504ae831b1c1da"
+egs_prod_id = "243e52db6a17463992b9a7ecceb9afce"
+egs_staging_id = "c14aba77566d4c37a643351e6033abc9"
+pops_id = "eu4_dlc088_british_revolters_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "291cc616c4225740a47b6f2ce0ff878d"

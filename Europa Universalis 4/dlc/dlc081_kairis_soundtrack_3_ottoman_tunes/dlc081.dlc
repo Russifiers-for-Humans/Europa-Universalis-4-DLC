@@ -1,0 +1,11 @@
+name = "Kairi's Soundtrack 3 - Ottoman Tunes"
+archive = "dlc/dlc081_kairis_soundtrack_3_ottoman_tunes/dlc081.zip"
+steam_id = "721341"
+egs_id = "17d12eab8b0240c98e382ef9edabd710"
+egs_prod_id = "b03c9b1659714100924fe7dee18333ea"
+egs_staging_id = "3f8494fe29f14684966145eb21e3113d"
+pops_id = "eu4_dlc081_kairis_soundtrack_3_ottoman_tunes"
+affects_checksum = no
+affects_compatability = no
+checksum = "77fca77322f1568220344a7bf98b4611"
+category = "music"

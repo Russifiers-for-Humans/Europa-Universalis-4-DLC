@@ -1,0 +1,11 @@
+name = "Indian Ships Unit Pack"
+archive = "dlc/dlc025_indian_ships_unit_pack/dlc025.zip"
+steam_id = "295222"
+egs_id = "3bee11950a8f47f489f7d0669cf65233"
+egs_prod_id = "beac449810be4c5c8d6a25435fc08d03"
+egs_staging_id = "1936f4d295f74889b2188ff85aff4616"
+pops_id = "eu4_dlc025_indian_ships_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "5da39f95917e91c53212b1a1cfbb4b4e"
+category = "unit_pack"

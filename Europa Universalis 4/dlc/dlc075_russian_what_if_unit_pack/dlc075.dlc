@@ -1,0 +1,11 @@
+name = "Russian What If? Unit Pack"
+archive = "dlc/dlc075_russian_what_if_unit_pack/dlc075.zip"
+steam_id = "625050"
+egs_id = "662f81db2e7e4fe9b537a7c3283e41de"
+egs_prod_id = "8fd3eca0957e42769ae495eb36c8cc44"
+egs_staging_id = "c196246e233b468293d16965a69cb534"
+pops_id = "eu4_dlc075_russian_what_if_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "2821879ac2f5c46b985f49c00b3d9db9"

@@ -1,0 +1,11 @@
+name = "South American Unit Pack"
+archive = "dlc/dlc034_south_american_unit_pack/dlc034.zip"
+steam_id = "338161"
+egs_id = "d1217961d2194d668459577c44af7399"
+egs_prod_id = "24247a8c49bc49e69251108a67903b95"
+egs_staging_id = "2f6df32570564ee982f4c2c9c092cbd0"
+pops_id = "eu4_dlc034_south_american_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "5d6b6a254e2727726775cab6f457bfbb"
+category = "unit_pack"

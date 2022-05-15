@@ -1,0 +1,11 @@
+name = "West African Unit Pack"
+archive = "dlc/dlc062_west_african_unit_pack/dlc062.zip"
+steam_id = "486571"
+egs_id = "1dff7a444e51408d94b571867acdfe27"
+egs_prod_id = "8296f8b0d7c24f52b7e74e1cc2f57974"
+egs_staging_id = "395a35149f0147ce8ee1bd98d995070c"
+pops_id = "eu4_dlc062_west_african_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "3d0a305092a122b70642cfa20e6d598a"
+category = "unit_pack"

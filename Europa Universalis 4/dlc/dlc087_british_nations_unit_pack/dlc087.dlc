@@ -1,0 +1,11 @@
+name = "British Nations Unit Pack"
+archive = "dlc/dlc087_british_nations_unit_pack/dlc087.zip"
+steam_id = "760070"
+egs_id = "157cd6f3ef9f48f88b504ae831b1c1da"
+egs_prod_id = "243e52db6a17463992b9a7ecceb9afce"
+egs_staging_id = "c14aba77566d4c37a643351e6033abc9"
+pops_id = "eu4_dlc087_british_nations_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "f3d4627e40a60711187fcf4faf5eeb92"

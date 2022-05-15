@@ -1,0 +1,11 @@
+name = "Russian Principalities Unit Pack"
+archive = "dlc/dlc073_russian_principalities_unit_pack/dlc073.zip"
+steam_id = "625050"
+egs_id = "662f81db2e7e4fe9b537a7c3283e41de"
+egs_prod_id = "8fd3eca0957e42769ae495eb36c8cc44"
+egs_staging_id = "c196246e233b468293d16965a69cb534"
+pops_id = "eu4_dlc073_russian_principalities_unit_pack"
+category = "unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "6e17deb7d7116b792c4f94ef3f9baf9a"

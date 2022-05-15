@@ -1,0 +1,11 @@
+name = "Catholic League Unit Pack"
+archive = "dlc/dlc029_catholic_league_unit_pack/dlc029.zip"
+steam_id = "310033"
+egs_id = "3bee11950a8f47f489f7d0669cf65233"
+egs_prod_id = "beac449810be4c5c8d6a25435fc08d03"
+egs_staging_id = "1936f4d295f74889b2188ff85aff4616"
+pops_id = "eu4_dlc029_catholic_league_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "6eb4500727f0add9527672d0eae1159c"
+category = "unit_pack"

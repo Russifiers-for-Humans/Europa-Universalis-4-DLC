@@ -1,0 +1,11 @@
+name = "Balkan Unit Pack"
+archive = "dlc/dlc102_emperor_balkan_unit_pack/dlc102.zip"
+steam_id = "1264340"
+egs_id = "e9244fab0b7a41dfa2489cbd797ad5e3"
+egs_prod_id = "0035bb9aa9d146c2a3ae87dfe114ab6c"
+egs_staging_id = "ba149c5f16be42a685f6cf652694d6b2"
+pops_id = "eu4_dlc102_emperor_balkan_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "124ff717d1482ad28b665d085ce87868"
+category = "unit_pack"

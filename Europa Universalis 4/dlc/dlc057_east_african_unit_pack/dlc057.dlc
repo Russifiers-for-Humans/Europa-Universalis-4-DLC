@@ -1,0 +1,11 @@
+name = "East African Unit Pack"
+archive = "dlc/dlc057_east_african_unit_pack/dlc057.zip"
+steam_id = "436121"
+egs_id = "a2bd97460ae84bcab82b8aa6ca1b883d"
+egs_prod_id = "10b93cf3b313497e986f1227a14c08bf"
+egs_staging_id = "87498fe46ce34b25b27790bf62faac8f"
+pops_id = "eu4_dlc057_east_african_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "a511d6b73c8ac20cb9e61e2fa7deaac5"
+category = "unit_pack"

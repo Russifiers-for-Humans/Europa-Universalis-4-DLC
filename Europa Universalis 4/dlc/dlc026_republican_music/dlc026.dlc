@@ -1,0 +1,11 @@
+name = "Republican Music"
+archive = "dlc/dlc026_republican_music/dlc026.zip"
+steam_id = "310030"
+egs_id = "2e3d7324df09418387e8eb649420abcc"
+egs_prod_id = "d3caec7c4e7d4256a458a4411720978b"
+egs_staging_id = "24c9d4da219144f080600db6b97934f5"
+pops_id = "eu4_dlc026_republican_music"
+affects_checksum = no
+affects_compatability = no
+checksum = "7fa855b829cdf203783a51b47a1c46fe"
+category = "music"

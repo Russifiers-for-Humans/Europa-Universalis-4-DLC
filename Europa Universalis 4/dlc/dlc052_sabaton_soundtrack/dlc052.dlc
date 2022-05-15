@@ -1,0 +1,12 @@
+name = "Sabaton Soundtrack"
+archive = "dlc/dlc052_sabaton_soundtrack/dlc052.zip"
+steam_id = "415680"
+egs_id = "2e3d7324df09418387e8eb649420abcc"
+egs_prod_id = "d3caec7c4e7d4256a458a4411720978b"
+egs_staging_id = "24c9d4da219144f080600db6b97934f5"
+pops_id = "eu4_dlc052_sabaton_soundtrack"
+affects_checksum = no
+affects_compatability = no
+checksum = "4828151e9ee7611e79a75be6faf33b24"
+category = "music"
+third_party_content = yes

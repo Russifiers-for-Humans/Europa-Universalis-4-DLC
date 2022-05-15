@@ -1,0 +1,11 @@
+name = "Indian Subcontinent Unit Pack"
+archive = "dlc/dlc024_indian_subcontinent_unit_pack/dlc024.zip"
+steam_id = "295221"
+egs_id = "3bee11950a8f47f489f7d0669cf65233"
+egs_prod_id = "beac449810be4c5c8d6a25435fc08d03"
+egs_staging_id = "1936f4d295f74889b2188ff85aff4616"
+pops_id = "eu4_dlc024_indian_subcontinent_unit_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "cc26f15f09c308738e688ce6f74f8ffa"
+category = "unit_pack"
