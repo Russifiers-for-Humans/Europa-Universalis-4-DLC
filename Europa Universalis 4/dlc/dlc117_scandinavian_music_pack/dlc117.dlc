@@ -1,0 +1,11 @@
+name = "Scandinavian Music Pack"
+archive = "dlc/dlc117_scandinavian_music_pack/dlc117.zip"
+steam_id = "2012010"
+egs_id = "2801500dc529489a85d0cae881aa9138"
+egs_prod_id = "a186de8f91c44e26a091a70d4a8beb15"
+egs_staging_id = "fc71c51a8488426fa8fcae2cae9c2c07"
+pops_id = "eu4_dlc117_scandinavian_music_pack"
+affects_checksum = no
+affects_compatability = no
+checksum = "4105e7139c369f133b01b3448c76aadf"
+category = "music"

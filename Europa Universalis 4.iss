@@ -4,14 +4,14 @@
 #define GameName "Europa Universalis 4"                                          ; Название игры
 #define GameNameDash "Europa-Universalis-4"                                          ; Название игры
 #define GameNameEXE "eu4"                                                              ; Название exe файла игры
-#define GameVer "1.33"                                                                     ; Версия игры
+#define GameVer "1.34"                                                                     ; Версия игры
 #define GameAppIdSteam "236850"                                                             ; Ид игры в стиме
 ; От ситуации зависит
 #define AppDescription "DLC для Europa Universalis 4"                                     ; Описание программы
 #define Typ "DLC"                                                                    ; Тип приложения
 ; Практически никогда не меняется
 #define AppVer "1"                                                                        ; Версия установщика
-#define Platz "D:\$RECYCLE.BIN\Bibliothek\Dokument\GitHub"                                                    ; Место
+#define Platz "C:\Users\TeMeR\Documents\GitHub"                                                    ; Место
 ; Константы
 #define Copyright "Folk"                                                                  ; (констант)Копирайт
 #define AppPublisher "Russifiers for Humans"                                              ; (констант)Название инициативы

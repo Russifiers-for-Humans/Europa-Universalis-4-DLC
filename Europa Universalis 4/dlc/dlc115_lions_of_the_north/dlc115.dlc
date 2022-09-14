@@ -1,0 +1,11 @@
+name = "Lions of the North"
+archive = "dlc/dlc115_lions_of_the_north/dlc115.zip"
+steam_id = "2012010"
+egs_id = "2801500dc529489a85d0cae881aa9138"
+egs_prod_id = "a186de8f91c44e26a091a70d4a8beb15"
+egs_staging_id = "fc71c51a8488426fa8fcae2cae9c2c07"
+# pops_id = "eu4_dlc107_leviathan_unit_pack"
+affects_checksum = no
+affects_compatability = yes
+checksum = "ae8afcf5356747aabe1ff9a464d64716"
+category = "expansion"

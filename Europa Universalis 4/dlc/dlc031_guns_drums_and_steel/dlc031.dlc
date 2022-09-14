@@ -7,5 +7,5 @@ egs_staging_id = "24c9d4da219144f080600db6b97934f5"
 pops_id = "eu4_dlc031_guns_drums_and_steel"
 affects_checksum = no
 affects_compatability = no
-checksum = "3d15ae97dfee34efc0eccdf2b92c9230"
+checksum = "22c8841ef87355c9b0f9fbd5fa82c99c"
 category = "music"
