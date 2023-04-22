@@ -1,9 +1,0 @@
-name = "Imperator Unit Pack"
-archive = "dlc/dlc100_imperator_unit_pack/dlc100.zip"
-steam_id = "1009630"
-egs_id = "" # Not available in EGS
-pops_id = "eu4_dlc100_imperator_unit_pack"
-category = "unit_pack"
-affects_checksum = no
-affects_compatability = no
-checksum = "d8d8bed9cde1d841ff3342b38b9b7cf5"
