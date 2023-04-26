@@ -510,6 +510,9 @@ Type: files; 		  Name: "{app}\steam_api64_org_game.dll";                        
 Type: files; 		  Name: "{app}\steam_api64_org_launcher.dll";                    Components: crack  
 Type: files; 		  Name: "{app}\SWconfig.ini";                                    Components: crack  
 Type: files; 		  Name: "{app}\Switcher Spacewar.exe";                           Components: crack  
+Type: files; 		  Name: "{app}\EOSSDK-Win64-Shipping.dll";                       Components: crack  
+Type: files; 		  Name: "{app}\EOSSDK-Win64-Shipping_o.dll";                     Components: crack  
+Type: files; 		  Name: "{app}\ScreamAPI.json";                                  Components: crack  
 Type: filesandordirs; Name: "{app}\soundtrack";      Components: soundtrack
 Type: filesandordirs; Name: "{app}\ebook";      Components: dlc\ebook
 Type: filesandordirs; Name: "{app}\dlc\dlc001_100_years_war_unit_pack";      Components: dlc\001
@@ -680,7 +683,7 @@ begin
   if CurPageID = wpReady then begin
     DownloadPage.Clear;// sha256 7z
 	if IsComponentSelected('crack') then begin
-      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/crack.zip', 'crack.zip', '3b9ea2e4cd8e0a63199d823d77836ffcbd83d0b643ff93739f455654373381c0');
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/crack.zip', 'crack.zip', 'c9c32b0c0d78a80dfa7d0d9c829f074533ff722560a9cf78080234adb47f7243');
     end;
 	if IsComponentSelected('dlc\ebook') then begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/ebook.zip', 'ebook.zip', 'c9f15c1a870682655ea684e911a83b086bfdc7cf2e899869ad1d286b973d62f9');
