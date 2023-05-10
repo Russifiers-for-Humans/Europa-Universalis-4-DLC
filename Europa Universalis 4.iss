@@ -10,7 +10,7 @@
 #define AppDescription "DLC для Europa Universalis 4"                                     ; Описание программы
 #define Typ "DLC"                                                                    ; Тип приложения
 ; Практически никогда не меняется
-#define AppVer "1"                                                                        ; Версия установщика
+#define AppVer "2"                                                                        ; Версия установщика
 #define Platz "C:\Users\TeMeR\Documents\GitHub"                                                    ; Место
 ; Константы
 #define Copyright "Folk"                                                                  ; (констант)Копирайт
