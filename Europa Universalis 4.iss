@@ -4,7 +4,7 @@
 #define GameName "Europa Universalis 4"                                          ; Название игры
 #define GameNameDash "Europa-Universalis-4"                                          ; Название игры
 #define GameNameEXE "eu4"                                                              ; Название exe файла игры
-#define GameVer "1.35"                                                                     ; Версия игры
+#define GameVer "1.36"                                                                     ; Версия игры
 #define GameAppIdSteam "236850"                                                             ; Ид игры в стиме
 ; От ситуации зависит
 #define AppDescription "DLC для Europa Universalis 4"                                     ; Описание программы
@@ -219,6 +219,14 @@ Name: "dlc\121"; Description: "Ottoman Music Pack";  Flags: checkablealone; Type
 Name: "dlc\122"; Description: "Chinese Music Pack";  Flags: checkablealone; Types: full compact
 Name: "dlc\123"; Description: "French Music Pack";  Flags: checkablealone; Types: full compact
 Name: "dlc\124"; Description: "March of Power Music Pack";  Flags: checkablealone; Types: full compact
+Name: "dlc\125"; Description: "Japan History Lessons";  Flags: checkablealone; Types: full compact
+Name: "dlc\126"; Description: "China History Lessons";  Flags: checkablealone; Types: full compact
+Name: "dlc\127"; Description: "10th Anniversary Community Music Pack";  Flags: checkablealone; Types: full compact
+Name: "dlc\128"; Description: "King of Kings";  Flags: checkablealone; Types: full compact
+Name: "dlc\129"; Description: "King of Kings Unit Pack";  Flags: checkablealone; Types: full compact
+Name: "dlc\130"; Description: "Egyptian Music Pack";  Flags: checkablealone; Types: full compact
+Name: "dlc\131"; Description: "Persian Music Pack";  Flags: checkablealone; Types: full compact
+Name: "dlc\132"; Description: "Caucasian Music Pack";  Flags: checkablealone; Types: full compact
 
 
 
@@ -236,7 +244,7 @@ Source: "{tmp}\ebook.zip";                                  DestDir: "{tmp}"; Co
 Source: "{tmp}\soundtrack.zip";                                  DestDir: "{tmp}"; Components: soundtrack;   Flags: external deleteafterinstall; ExternalSize: 240953531
 Source: "{tmp}\dlc001_100_years_war_unit_pack.zip";     DestDir: "{tmp}"; Components: dlc\001; Flags: external deleteafterinstall; ExternalSize: 4238683
 Source: "{tmp}\dlc002_horsemen_of_the_crescent_unit_pack.zip";             DestDir: "{tmp}"; Components: dlc\002; Flags: external deleteafterinstall; ExternalSize: 6240961
-Source: "{tmp}\dlc003_winged_hussars_unit_pack.zip";       DestDir: "{tmp}"; Components: dlc\003; Flags: external deleteafterinstall; ExternalSize: 6823696
+Source: "{tmp}\dlc003_winged_hussars_unit_pack.zip";       DestDir: "{tmp}"; Components: dlc\003; Flags: external deleteafterinstall; ExternalSize: 6241056
 Source: "{tmp}\dlc004_star_and_crescent.zip";    DestDir: "{tmp}"; Components: dlc\004; Flags: external deleteafterinstall; ExternalSize: 2550177
 Source: "{tmp}\dlc005_american_dream.zip";        DestDir: "{tmp}"; Components: dlc\005; Flags: external deleteafterinstall; ExternalSize: 2817045
 Source: "{tmp}\dlc006_purple_phoenix.zip";          DestDir: "{tmp}"; Components: dlc\006; Flags: external deleteafterinstall; ExternalSize: 2476465
@@ -278,7 +286,7 @@ Source: "{tmp}\builtin_dlc.zip";                                  DestDir: "{tmp
 Source: "{tmp}\dlc039_common_sense.zip";                  DestDir: "{tmp}"; Components: dlc\039; Flags: external deleteafterinstall; ExternalSize: 1955935
 Source: "{tmp}\dlc040_theocracies_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\040; Flags: external deleteafterinstall; ExternalSize: 8596572
 Source: "{tmp}\dlc041_buddhists_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\041; Flags: external deleteafterinstall; ExternalSize: 9131191
-Source: "{tmp}\dlc042_great_nations_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\042; Flags: external deleteafterinstall; ExternalSize: 10619156
+Source: "{tmp}\dlc042_great_nations_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\042; Flags: external deleteafterinstall; ExternalSize: 10341448
 Source: "{tmp}\dlc043_free_cities_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\043; Flags: external deleteafterinstall; ExternalSize: 8728659
 Source: "{tmp}\dlc044_kairis_soundtrack.zip";	  DestDir: "{tmp}"; Components: dlc\044; Flags: external deleteafterinstall; ExternalSize: 77013375
 
@@ -361,6 +369,15 @@ Source: "{tmp}\dlc121_ottoman_music_pack.zip";	  DestDir: "{tmp}"; Components: d
 Source: "{tmp}\dlc122_chinese_music_pack.zip";	  DestDir: "{tmp}"; Components: dlc\122; Flags: external deleteafterinstall; ExternalSize: 77149693
 Source: "{tmp}\dlc123_french_music_pack.zip";	  DestDir: "{tmp}"; Components: dlc\123; Flags: external deleteafterinstall; ExternalSize: 72274365
 Source: "{tmp}\dlc124_domination_pre_order_bonus.zip";	  DestDir: "{tmp}"; Components: dlc\124; Flags: external deleteafterinstall; ExternalSize: 211988261
+Source: "{tmp}\dlc125_lessons_japan.zip";	  DestDir: "{tmp}"; Components: dlc\125; Flags: external deleteafterinstall; ExternalSize: 1148118904
+Source: "{tmp}\dlc126_lessons_china.zip";	  DestDir: "{tmp}"; Components: dlc\126; Flags: external deleteafterinstall; ExternalSize: 1184357459
+Source: "{tmp}\dlc127_10th_anniversary.zip";	  DestDir: "{tmp}"; Components: dlc\127; Flags: external deleteafterinstall; ExternalSize: 229529474
+Source: "{tmp}\dlc128_king_of_kings.zip";	  DestDir: "{tmp}"; Components: dlc\128; Flags: external deleteafterinstall; ExternalSize: 1012183
+Source: "{tmp}\dlc129_king_of_kings_unit_pack.zip";	  DestDir: "{tmp}"; Components: dlc\129; Flags: external deleteafterinstall; ExternalSize: 16383064
+Source: "{tmp}\dlc130_egyptian_music_pack.zip";	  DestDir: "{tmp}"; Components: dlc\130; Flags: external deleteafterinstall; ExternalSize: 82447112
+Source: "{tmp}\dlc131_persian_music_pack.zip";	  DestDir: "{tmp}"; Components: dlc\131; Flags: external deleteafterinstall; ExternalSize: 81303221
+Source: "{tmp}\dlc132_caucasian_music_pack.zip";	  DestDir: "{tmp}"; Components: dlc\132; Flags: external deleteafterinstall; ExternalSize: 74656363
+
 
 
 [Icons]
@@ -499,6 +516,14 @@ Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc121_ottoman_music_pack
 Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc122_chinese_music_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\122
 Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc123_french_music_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\123
 Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc124_domination_pre_order_bonus.zip  -y -o""{app}\dlc\""";        Components: dlc\124 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc125_lessons_japan.zip  -y -o""{app}\dlc\""";        Components: dlc\125 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc126_lessons_china.zip  -y -o""{app}\dlc\""";        Components: dlc\126 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc127_10th_anniversary.zip  -y -o""{app}\dlc\""";        Components: dlc\127 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc128_king_of_kings.zip  -y -o""{app}\dlc\""";        Components: dlc\128 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc129_king_of_kings_unit_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\129 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc130_egyptian_music_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\130 
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc131_persian_music_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\131
+Filename: "{tmp}\{#UnArcivProg}"; Parameters: "x {tmp}\dlc132_caucasian_music_pack.zip  -y -o""{app}\dlc\""";        Components: dlc\132 
 
 
 [UninstallDelete]
@@ -634,6 +659,14 @@ Type: filesandordirs; Name: "{app}\dlc\dlc121_ottoman_music_pack";	   Components
 Type: filesandordirs; Name: "{app}\dlc\dlc122_chinese_music_pack";	   Components: dlc\122
 Type: filesandordirs; Name: "{app}\dlc\dlc123_french_music_pack";	   Components: dlc\123
 Type: filesandordirs; Name: "{app}\dlc\dlc124_domination_pre_order_bonus";	   Components: dlc\124
+Type: filesandordirs; Name: "{app}\dlc\dlc125_lessons_japan";	   Components: dlc\125
+Type: filesandordirs; Name: "{app}\dlc\dlc126_lessons_china";	   Components: dlc\126
+Type: filesandordirs; Name: "{app}\dlc\dlc127_10th_anniversary";	   Components: dlc\127
+Type: filesandordirs; Name: "{app}\dlc\dlc128_king_of_kings";	   Components: dlc\128
+Type: filesandordirs; Name: "{app}\dlc\dlc129_king_of_kings_unit_pack";	   Components: dlc\129
+Type: filesandordirs; Name: "{app}\dlc\dlc130_egyptian_music_pack";	   Components: dlc\130
+Type: filesandordirs; Name: "{app}\dlc\dlc131_persian_music_pack";	   Components: dlc\131
+Type: filesandordirs; Name: "{app}\dlc\dlc132_caucasian_music_pack";	   Components: dlc\132
 
 [Code]
 var
@@ -683,7 +716,7 @@ begin
   if CurPageID = wpReady then begin
     DownloadPage.Clear;// sha256 7z
 	if IsComponentSelected('crack') then begin
-      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/crack.zip', 'crack.zip', 'c9c32b0c0d78a80dfa7d0d9c829f074533ff722560a9cf78080234adb47f7243');
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/crack.zip', 'crack.zip', '93329a3a3af27e25dabf9d02a5b957b724131a96d6194a046f9bddd43999713f');
     end;
 	if IsComponentSelected('dlc\ebook') then begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/ebook.zip', 'ebook.zip', 'c9f15c1a870682655ea684e911a83b086bfdc7cf2e899869ad1d286b973d62f9');
@@ -695,7 +728,7 @@ begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc001_100_years_war_unit_pack.zip', 'dlc001_100_years_war_unit_pack.zip', 'e2009aad68165b0938a8b2acbadfce4f58c30c77b3a52a977dadb0508a22949c');
     end;
 	if IsComponentSelected('dlc/002') then begin
-      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc002_horsemen_of_the_crescent_unit_pack.zip', 'dlc002_horsemen_of_the_crescent_unit_pack.zip', '76345793073bdb53ffed4d76baf749e84c467aee2c335aecd76bde3ec62c88c6');
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc002_horsemen_of_the_crescent_unit_pack.zip', 'dlc002_horsemen_of_the_crescent_unit_pack.zip', 'a2dd291a7ec30b1115dc4f77322fc9c317ee2de34172641560a204b684d7c9cc');
     end;
 	if IsComponentSelected('dlc/003') then begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc003_winged_hussars_unit_pack.zip', 'dlc003_winged_hussars_unit_pack.zip', 'cfc89224381d3df43f83bc6c4a72bedea71e08db85e890b7f8f0dc8c581a1752');
@@ -806,7 +839,7 @@ begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc041_buddhists_unit_pack.zip', 'dlc041_buddhists_unit_pack.zip', 'b9897bac5745719170757f434e8473b1aa294c18f72d48818f1c2a57664480dc');
     end;
 	if IsComponentSelected('dlc/042') then begin
-      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc042_great_nations_unit_pack.zip', 'dlc042_great_nations_unit_pack.zip', 'b66fbea2da5386845673d4caee7b9f0afff0aef538c0a38be30735e0293f2ad1');
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc042_great_nations_unit_pack.zip', 'dlc042_great_nations_unit_pack.zip', '0fe55290e84f9971d4e88eceb8e32799ccd8c788506d3362715c79c0765f911d');
     end;
 	if IsComponentSelected('dlc/043') then begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc043_free_cities_unit_pack.zip', 'dlc043_free_cities_unit_pack.zip', '80ef98f0c5ce9a4fd13b976d79fe676a1d54adda840a862830b2aca29c9c9007');
@@ -1047,6 +1080,30 @@ begin
     end;
 	if IsComponentSelected('dlc/124') then begin
       DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.35/dlc124_domination_pre_order_bonus.zip', 'dlc124_domination_pre_order_bonus.zip', '8fa2c23174110cd40e92db0ff68bacd1a0d98ec74aceda638152b92560e60f9c');
+	end;
+	if IsComponentSelected('dlc/125') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc125_lessons_japan.zip', 'dlc125_lessons_japan.zip', 'f2156f53ea4998b886b924bfa6b97d0a271a5b4a7b8531cb5e4e1e78d8e0dcfe');
+	end;
+	if IsComponentSelected('dlc/126') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc126_lessons_china.zip', 'dlc126_lessons_china.zip', '2b3d02c3e463669fa2ee045e652710ac297acc70e4adc3531af8726ebcea35ee');
+	end;
+  if IsComponentSelected('dlc/127') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc127_10th_anniversary.zip', 'dlc127_10th_anniversary.zip', '1d10fb2dcde312ebf42223a3238b5fbc216d0464c278988f8dae49e1819d18a9');
+	end;
+  if IsComponentSelected('dlc/128') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc128_king_of_kings.zip', 'dlc128_king_of_kings.zip', 'cd7ce6b8ccb9c337d8c8a643267d93700bfe50a726851871bbe4534927f2f98e');
+	end;
+  if IsComponentSelected('dlc/129') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc129_king_of_kings_unit_pack.zip', 'dlc129_king_of_kings_unit_pack.zip', '789b31291b39a7fccb9ff85fd0adf4e2a3ef5ccb34a1acd48fe47d3e32f09b88');
+	end;
+  if IsComponentSelected('dlc/130') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc130_egyptian_music_pack.zip', 'dlc130_egyptian_music_pack.zip', '97a137a7d088489e5964a27c58dc633e5ed0b0d0ffe0d5e80d94399015265264');
+	end;
+  if IsComponentSelected('dlc/131') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc131_persian_music_pack.zip', 'dlc131_persian_music_pack.zip', '58df6053924727139e8050d9c043842e6d51adf31e28c716c407636f4f696426');
+	end;
+  if IsComponentSelected('dlc/132') then begin
+      DownloadPage.Add('https://github.com/Russifiers-for-Humans/Europa-Universalis-4-DLC/releases/download/1.36/dlc132_caucasian_music_pack.zip', 'dlc132_caucasian_music_pack.zip', '932ac14e9fd08edd8eab1fd7a6a51f0c9fd13dc34e28c6feb8e997ce8bf426a0');
 	end;
     DownloadPage.Show;
     try
